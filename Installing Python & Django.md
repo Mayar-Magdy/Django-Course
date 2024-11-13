@@ -29,6 +29,3 @@
 ## Conclusion
 Following these steps, you should have Python and Django installed on your system. 🎉
 
-
-======================
-django-admin startproject mypage
